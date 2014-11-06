@@ -1,0 +1,3 @@
+When I initialize a repository, it seems to create the .git hidden file, which I suppose contains the basic framework of all the data and meta-data which git will store there when I start making commits
+
+
