@@ -1,3 +1,5 @@
 When I initialize a repository, it seems to create the .git hidden file, which I suppose contains the basic framework of all the data and meta-data which git will store there when I start making commits
 
+The staging area seems to be a kind of commit-in-progress.  It seems to give a platform for creating commits
+
 
