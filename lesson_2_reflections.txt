@@ -3,3 +3,7 @@ When I initialize a repository, it seems to create the .git hidden file, which I
 The staging area seems to be a kind of commit-in-progress.  It seems to give a platform for creating commits
 
 It appears that knowing when to make a new commit is more art then science.  
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I've programmed in TFS for a while where branches are a fairly heavy-weight operation, and the ability to do an easy branch just to experiment a little, or change subject, or make a small bug fix, and then switch back easily seems immediately useful
