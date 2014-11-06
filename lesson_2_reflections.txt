@@ -2,4 +2,4 @@ When I initialize a repository, it seems to create the .git hidden file, which I
 
 The staging area seems to be a kind of commit-in-progress.  It seems to give a platform for creating commits
 
-
+It appears that knowing when to make a new commit is more art then science.  
