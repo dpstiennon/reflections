@@ -11,3 +11,7 @@ I've programmed in TFS for a while where branches are a fairly heavy-weight oper
 How do the diagrams help you visualize the branch structure?
 
 The chain of references that makes up the "Real" branch structure is somewhat extract, and visualizing it as a tree of branches both makes it possible to process a structure of interrelated chains in one chunk, and to better understand the relationships between paths.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+It seems that with merging trivial changes manually, I would be likely to forget something.  Git seems to strike a good balance, and it gives you all the fine-grained history to be able to figure out the problem if a problem does arise.
